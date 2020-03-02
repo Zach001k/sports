@@ -1,0 +1,42 @@
+.div{
+    background-color:yellowgreen;
+
+}
+.wee{
+    text-align: right;
+    color:black;
+    padding:10px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: 'Dancing Script', cursive;
+}
+.me{
+    display: inline;
+    color:black;
+    padding:10px;
+    margin-top: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+.but{
+    color: darkgreen;
+    overflow: hidden;
+    
+
+
+}
+.car{
+    width: 40%;
+    height: 400px;
+    float:right;
+    
+}
+.pot{
+    width: auto;
+    height:40%;
+    background-attachment: fixed;
+
+}
+.stil{
+    border: none;
+    text-decoration-color: black;
+}

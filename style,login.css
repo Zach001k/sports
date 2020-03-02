@@ -1,0 +1,39 @@
+form{
+    /* align-content: center; */
+    background-color: aquamarine;
+}
+
+.input{
+    margin: 10px 0px 10px 0px; 
+}
+.head{
+    text-align: center;
+    background-color: azure;
+}
+form, .content {
+    
+	width: 40%;
+	margin: 70px auto 10px;
+    padding: 20px;
+    text-align: center;
+    align-content: center;
+	border: 1px solid #B0C4DE;
+    background-color: chartreuse;
+	border-radius: 0px 0px 10px 10px;
+}
+body{
+    background-image:url(photos/pitch.jpg) ;
+    background-size:cover    ;
+    
+}
+.done{
+    width: 40%;
+	margin: 50px auto 0px;
+	color: white;
+	background: burlywood;
+	text-align: center;
+	border: 1px solid ;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
